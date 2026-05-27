@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "PrimeLand12.aternos.me",
+    "port": 53838,
     "version": "1.20.1",
     "try-creative": false
   },
