@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PrimeLand12.aternos.me",
-    "port": 53838,
+    "ip": "PrimeLand123.aternos.me",
+    "port": 27757,
     "version": "1.20.1",
     "try-creative": false
   },
